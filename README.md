@@ -28,8 +28,7 @@ User Interface -The UI is designed to be clean and responsive by suing flutter.
 
  Getting Started:
 
-1. Clone this repository to your local machine. git clone   
-     https://github.com/your/repo.git
+1. Clone this repository to your local machine- git clone https://github.com/G-Sai-Charan/keka_todo_list_app
 2. Ensure you have Flutter and Dart installed on your development environment.
      Flutter version: '>=3.2.3 <4.0.0'
      Dart version: '>=2.15.0 <3.0.0'
