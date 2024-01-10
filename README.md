@@ -35,14 +35,6 @@ User Interface -The UI is designed to be clean and responsive by suing flutter.
 5. Run `flutter pub get` to fetch and install the required dependencies.
 6. Launch the app on an emulator or physical device using `flutter run`.
 
-Screenshots:
-
-<img src="1.jpg" width="250px">               <img src="2.jpg" width="250px">
-<img src="3.jpg" width="250px">                <img src="4.jpg" width="250px">
-<img src="5.jpg" width="250px">                <img src="6.jpg" width="250px"> 
-<img src="7.jpg" width="250px">                <img src="8.jpg" width="250px">
-<img src="9.jpg" width="250px">
-
 
 How to Use the App:
 
@@ -53,4 +45,14 @@ How to Use the App:
 5. You can click on a task to view its detailed information.
 6. You can click on the checkbox next to a task to mark it as completed.
 7. You can long-press on a task to delete it.
+
+
+
+Screenshots:
+
+<img src="1.jpg" width="250px">               <img src="2.jpg" width="250px">
+<img src="3.jpg" width="250px">                <img src="4.jpg" width="250px">
+<img src="5.jpg" width="250px">                <img src="6.jpg" width="250px"> 
+<img src="7.jpg" width="250px">                <img src="8.jpg" width="250px">
+<img src="9.jpg" width="250px">
 
