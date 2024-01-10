@@ -37,7 +37,11 @@ User Interface -The UI is designed to be clean and responsive by suing flutter.
 
 Screenshots:
 
-<img src="screenshots/screenshot_1.png" width="250"> <img src="screenshots/screenshot_2.png" width="250"> <img src="screenshots/screenshot_3.png" width="250">
+<img src="1.jpg" width="250px">               <img src="2.jpg" width="250px">
+<img src="3.jpg" width="250px">                <img src="4.jpg" width="250px">
+<img src="5.jpg" width="250px">                <img src="6.jpg" width="250px"> 
+<img src="7.jpg" width="250px">                <img src="8.jpg" width="250px">
+<img src="9.jpg" width="250px">
 
 
 How to Use the App:
